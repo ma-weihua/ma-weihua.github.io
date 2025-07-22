@@ -11,7 +11,7 @@ url: https://ma-weihua.github.io
 # --------------------------------------------------
 owner:
   name: Weihua Ma
-  avatar: weihua.jpg   # 确保你图片是这个路径并 push 了
+  avatar: weihua.jpg 
   email: cora.weihua@gmail.com
 
   # Social networking links（按需添加）
@@ -19,8 +19,6 @@ owner:
   linkedin: weihua-ma
   scholar: https://scholar.google.com/citations?user=YOUR-ID
   researchgate: https://www.researchgate.net/profile/Weihua-Ma
-  zhihu: https://www.zhihu.com/people/your-zhihu
-  bilibili: your-bilibili-id
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
