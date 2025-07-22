@@ -1,10 +1,4 @@
 # --------------------------------------------------
----
-layout: splash
-title: "About Me"
-author_profile: true
----
-
 #  BASIC SITE INFO
 # --------------------------------------------------
 title: Weihua Ma   # Main site title (appears in browser tab & RSS)
@@ -20,7 +14,7 @@ url: https://ma-weihua.github.io
 # --------------------------------------------------
 AUTHOR:
   name: Weihua Ma
-  avatar: /images/weihua.jpg
+  avatar: 
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: cora.weihua@gmail.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
