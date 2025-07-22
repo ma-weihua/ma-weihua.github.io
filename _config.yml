@@ -1,5 +1,10 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
+---
+layout: splash
+title: "About Me"
+author_profile: true
+---
 # --------------------------------------------------
 title: Weihua Ma   # Main site title (appears in browser tab & RSS)
 tagline: Here is a personal website of Weihua Ma. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
@@ -12,24 +17,18 @@ url: https://ma-weihua.github.io
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
-AUTHOR:
-  name: Weihua Ma
-  avatar: 
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
+author:
+  name: "Weihua Ma"
+  avatar: /images/weihua.jpg
+  bio: "Believer. Computational communication researcher."
   email: cora.weihua@gmail.com
+  github: ma-weihua
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: ma-weihua
  
----
-layout: splash
-title: "About Me"
-author_profile: true
----
-
-
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
