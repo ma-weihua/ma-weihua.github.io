@@ -7,12 +7,12 @@ description: Believer.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://ma-weihua.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
-owner:
+AUTHOR:
   name: Weihua Ma
   avatar: /assets/images/weihua.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
@@ -21,18 +21,13 @@ owner:
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  bilibili: 594030035
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
+  github: ma-weihua
+ 
+---
+layout: splash
+title: "About Me"
+author_profile: true
+---
 
 
 # --------------------------------------------------
