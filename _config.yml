@@ -11,7 +11,7 @@ url: https://ma-weihua.github.io
 # --------------------------------------------------
 owner:
   name: Weihua Ma
-  avatar: images/weihua.jpg   # 确保你图片是这个路径并 push 了
+  avatar: weihua.jpg   # 确保你图片是这个路径并 push 了
   email: cora.weihua@gmail.com
 
   # Social networking links（按需添加）
