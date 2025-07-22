@@ -1,21 +1,15 @@
 # --------------------------------------------------
-#  BASIC SITE INFO
----
-layout: splash
-title: "About Me"
-author_profile: true
----
+# BASIC SITE INFO
 # --------------------------------------------------
-title: Weihua Ma   # Main site title (appears in browser tab & RSS)
-tagline: Here is a personal website of Weihua Ma. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Believer.  # Strongly recommended for SEO & social cards
-
-# TIP ── For local development you can comment out `url`
-# and build with relative paths. In production you want this set.
+title: Weihua Ma
+tagline: Here is a personal website of Weihua Ma. Powered by Jekyll, based on the Minimal Mistakes theme.
+description: Believer.
 url: https://ma-weihua.github.io
 
+theme: minimal-mistakes-jekyll
+
 # --------------------------------------------------
-#  AUTHOR / PROFILE DATA
+# AUTHOR / PROFILE DATA
 # --------------------------------------------------
 author:
   name: "Weihua Ma"
@@ -23,18 +17,7 @@ author:
   bio: "Believer. Computational communication researcher."
   email: cora.weihua@gmail.com
   github: ma-weihua
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
-
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: ma-weihua
- 
-# --------------------------------------------------
-#  SEARCH-ENGINE VERIFICATION & ANALYTICS
-# --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-# bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
 
 # --------------------------------------------------
