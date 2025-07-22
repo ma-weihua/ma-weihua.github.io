@@ -3,12 +3,7 @@ layout: page
 ---
 
 # About Me
-
-<img src="https://weihua.com/weihua.jpg" class="floatpic">
-
 Here is **Weihua Ma (Cora, 马卫华)**.<br>
-
-
 I'm a master's student at Nanjing University, specializing in computational communication and narrative communication. Feel free to reach out if you'd like to connect or have a chat — I'm always open to discussions and collaboration! :)
 
 ---
