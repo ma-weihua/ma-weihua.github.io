@@ -1,24 +1,46 @@
 # --------------------------------------------------
-# BASIC SITE INFO
+#  BASIC SITE INFO
 # --------------------------------------------------
-title: Weihua Ma
-tagline: Here is a personal website of Weihua Ma. Powered by Jekyll, based on the Minimal Mistakes theme.
-description: Believer.
-url: https://ma-weihua.github.io
+title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
+tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
 
-theme: minimal-mistakes-jekyll
+# TIP ── For local development you can comment out `url`
+# and build with relative paths. In production you want this set.
+url: https://caihanlin.com
 
 # --------------------------------------------------
-# AUTHOR / PROFILE DATA
+#  AUTHOR / PROFILE DATA
 # --------------------------------------------------
-author:
-  name: "Weihua Ma"
-  avatar: /images/weihua.jpg
-  bio: "Believer. Computational communication researcher."
-  email: cora.weihua@gmail.com
-  github: ma-weihua
+owner:
+  name: Hanlin Cai
+  avatar: hanlin.jpg
+  # bio: Dream big, stay positive, work hard, and enjoy the journey.
+  email: hc663@cam.ac.uk
+  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
 
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: lancecai2002
+  github: GuangLun2000
+  linkedin: hanlincai
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  zhihu: https://www.zhihu.com/people/chlire
+  xiaohongshu: 5c27848f0000000005030c6f
+  bilibili: 594030035
+  # facebook: caihanlin2002
+  # instagram: lancecai2002
+  # lastfm:
+  # tumblr:
+
+
+# --------------------------------------------------
+#  SEARCH-ENGINE VERIFICATION & ANALYTICS
+# --------------------------------------------------
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
 # --------------------------------------------------
 #  TOP NAVIGATION BAR
