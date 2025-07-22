@@ -1,47 +1,33 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Hanlin Cai   # Main site title (appears in browser tab & RSS)
-tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
-description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
-
-# TIP ── For local development you can comment out `url`
-# and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+title: Weihua Ma
+tagline: Here is personal website of Weihua Ma. Powered by Jekyll, based on the Minimal Mistakes theme.
+description: Believer. Computational communication researcher.
+url: https://ma-weihua.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
-  # bio: Dream big, stay positive, work hard, and enjoy the journey.
-  email: hc663@cam.ac.uk
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  name: Weihua Ma
+  avatar: /images/weihua.jpg   # 确保你图片是这个路径并 push 了
+  email: cora.weihua@gmail.com
+  cv: https://ma-weihua.github.io/files/CV-WeihuaMa.pdf   # 如果你有简历
 
-
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
-  xiaohongshu: 5c27848f0000000005030c6f
-  bilibili: 594030035
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-
+  # Social networking links（按需添加）
+  github: ma-weihua
+  linkedin: weihua-ma
+  scholar: https://scholar.google.com/citations?user=YOUR-ID
+  researchgate: https://www.researchgate.net/profile/Weihua-Ma
+  zhihu: https://www.zhihu.com/people/your-zhihu
+  bilibili: your-bilibili-id
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-# bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
-
+google_verify: ""      # 可留空或填你自己的 Google 验证码
+google_analytics: ""   # 可留空或填你自己的 GA 代码
 
 # --------------------------------------------------
 #  TOP NAVIGATION BAR
