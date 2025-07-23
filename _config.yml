@@ -16,9 +16,6 @@ owner:
 
   # Social networking links（按需添加）
   github: ma-weihua
-  linkedin: weihua-ma
-  scholar: https://scholar.google.com/citations?user=YOUR-ID
-  researchgate: https://www.researchgate.net/profile/Weihua-Ma
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
@@ -116,3 +113,8 @@ plugins:
   - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
 #   - jekyll-picture-tag   # Responsive images & WebP/AVIF
   # - jekyll-archives      # Year/month archive pages
+  defaults:
+  - scope:
+      path: ""
+    values:
+      include: custom-head.html
