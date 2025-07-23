@@ -4,25 +4,15 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
-
-- May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000 for tuition waiver and stipend)
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, Five times)<br>Combined degree scholarship between FZU and Maynooth<br>
-
 ## Competitions
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Oct 2024：Won Gold Prize at the 2024 China International College Students’ Innovation Competition(National Level).<br>
+- May 2024: Awarded **Second Prize** in the 27th Basic Sciences Forum Regular Track, Nanjing University
+
+## Honors
+
+- Jan 2025：Awarded **Outstanding Student of the Year (2023–2024 Academic Year)**<br>Nanjing University (University-level recognition)<br>
+- May 2024: Awarded **Excellent Communist Youth League Member**<br>Nanjing University<br>
+- Sep 2023: Selected as an **Outstanding Trainee** <br>The 4th Cohort of the **Student Cadre Training Program**, Nanjing University
 
 <br>
