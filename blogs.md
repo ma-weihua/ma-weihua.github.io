@@ -7,6 +7,6 @@ title: Blogs
 Welcome!  
 You can follow my WeChat account here:  
 
-![WeChat QR Code](/images/WeChat.JPG)  
+![WeChat QR Code](/images/WeChat.jpg)
 
 Scan it to check out my daily updates!^_^
