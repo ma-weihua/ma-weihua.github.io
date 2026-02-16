@@ -13,7 +13,7 @@ The following three sets of drawings were created in 2018 and 2021, respectively
 </p>
 2018.8<br>
 <p align="center">
-  <img src="{{ '/images/2.jpg' | relative_url }}" width="200">
+  <img src="{{ '/images/2.jpg' | relative_url }}" width="500">
 </p>
 2021.7<br>
 <p align="center">
