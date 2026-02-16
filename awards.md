@@ -6,7 +6,7 @@ title: Awards
 
 ## Competitions
 
-- Oct 2024：- Oct 2024: Won the **Gold Prize** at the 2024 China International College Students’ Innovation Competition <strong>(National Level)</strong>.<br>
+- Oct 2024：Won the **Gold Prize** at the 2024 China International College Students’ Innovation Competition <strong>(National Level)</strong>.<br>
 - May 2024: Awarded **Second Prize** in the 27th Basic Sciences Forum Regular Track, Nanjing University
 
 ## Honors

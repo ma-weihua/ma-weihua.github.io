@@ -9,9 +9,8 @@ title: Publications
 ## Conference Paper
 
 - Games as a Medium: The Role of Black Myth: Wukong in Promoting the Overseas
-Dissemination of Journey to the West<br>Xiao Xiao,**Weihua Ma**<br>Denver, United States. November, 2025.<br>
-
-
+Dissemination of Journey to the West<br>Xiao Xiao,**Weihua Ma**<br>National Communication Association (NCA) 111th Annual Convention, Denver, United States. November 2025.<br>
+- Causal Pathways of Influence: International News and Political Elite Attention, has been accepted for presentation Individual<br>Xiao Xiao,**Weihua Ma†**<br>International Communication Association (ICA) 76th Annual Conference, Cape Town, South Africa. June 2026.<br>
 
 ---
 
