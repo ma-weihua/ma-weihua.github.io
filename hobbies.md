@@ -8,12 +8,13 @@ I like watching TV, reading novels, doing yoga, drawing, playing tennis, and so 
 
 The following three sets of drawings were created in 2018 and 2021, respectively. Since I rarely draw, each piece is especially precious to me.<br>
 <p align="center">
-  <img src="images/1.jpg" width="500">
+  <img src="{{ '/images/1.jpg' | relative_url }}" width="500">
 </p>
 
 <p align="center">
-  <img src="images/2.jpg" width="250">
-  <img src="images/3.jpg" width="250">
-  <img src="images/4.jpg" width="250">
+  <img src="{{ '/images/2.jpg' | relative_url }}" width="250">
+  <img src="{{ '/images/3.jpg' | relative_url }}" width="250">
+  <img src="{{ '/images/4.jpg' | relative_url }}" width="250">
 </p>
+
 
