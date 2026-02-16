@@ -13,11 +13,11 @@ The following three sets of drawings were created in 2018 and 2021, respectively
 </p>
 2018.8<br>
 <p align="center">
-  <img src="{{ '/images/2.jpg' | relative_url }}" width="500">
+  <img src="{{ '/images/comic.jpg' | relative_url }}" width="300">
 </p>
 2021.7<br>
 <p align="center">
-  <img src="{{ '/images/4.jpg' | relative_url }}" width="150">
+  <img src="{{ '/images/girl.jpg' | relative_url }}" width="150">
 </p>
 
 
