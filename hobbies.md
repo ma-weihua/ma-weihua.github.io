@@ -6,7 +6,7 @@ title: Hobbies
 
 I like watching TV, reading novels, doing yoga, drawing, playing tennis, and so on. But what I enjoy most is chatting with interesting people!
 
-The following three sets of drawings were created in 2018 and 2021, respectively. Since I rarely draw, each piece is especially precious to me.<br>
+The following four sets of drawings were created in 2018 and 2021, respectively. Since I rarely draw, each piece is especially precious to me.<br>
 2018.7<br>
 <p align="center">
   <img src="{{ '/images/1.jpg' | relative_url }}" width="500">
