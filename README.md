@@ -15,7 +15,7 @@ Then open `http://localhost:8000/`.
 ## Content updates
 
 - Biography, research interests, and education: edit `index.html` and the Chinese equivalents in `cn/index.html`.
-- Conference papers and projects: edit `publications/index.html`. Preserve the year-first descending order.
+- Conference papers, manuscripts under review, and works in progress: edit `publications/index.html`.
 - Awards: edit `awards/index.html` and `cn/index.html`. Confirm official award and institution names before adding translations.
 - Blog links or entries: edit `blogs/index.html`. Do not add post text unless it is publicly available and belongs to Weihua Ma.
 - Profile details: the sidebar is repeated in each page so the site remains buildless. Search for `class="profile"` to update all copies.
@@ -23,8 +23,8 @@ Then open `http://localhost:8000/`.
 
 ## Updating the CV
 
-1. Update `assets/cv/Weihua_Ma_CV.tex`.
-2. Compile it with a LaTeX installation if available, or regenerate the equivalent PDF using a text-preserving PDF tool.
+1. Update the content near the bottom of `assets/cv/Weihua_Ma_CV.tex`; the reusable layout commands are defined at the top.
+2. Compile it in Overleaf or with a local LaTeX installation. Latin Modern is declared in the source, so the typography remains consistent.
 3. Replace `assets/cv/Weihua_Ma_CV.pdf` without changing the filename. The preview, download, and open buttons all point to this single file.
 4. Open `/cv/` on desktop and mobile to verify the embedded preview and fallback links.
 
