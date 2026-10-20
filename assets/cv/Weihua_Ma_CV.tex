@@ -1,0 +1,76 @@
+\documentclass[10pt,letterpaper]{article}
+\usepackage[letterpaper,left=0.53in,right=0.53in,top=0.48in,bottom=0.50in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
+\definecolor{linkpurple}{HTML}{6047A6}
+\hypersetup{colorlinks=true,urlcolor=linkpurple,linkcolor=linkpurple}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[R]{\small Page \thepage\ of 2}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\raggedbottom
+\newcommand{\cvsection}[1]{\vspace{0.55em}{\Large\scshape #1}\par\vspace{0.08em}\hrule\vspace{0.35em}}
+\newcommand{\edu}[4]{\textbf{#1}\hfill #2\\#3\hfill #4\par\vspace{0.45em}}
+\newcommand{\pub}[2]{\hangindent=2.1em\hangafter=1\makebox[2.1em][l]{[#1]}#2\par\vspace{0.35em}}
+\newcommand{\cvbullet}[2]{\hangindent=1.45em\hangafter=1\makebox[1.45em][l]{\textbullet}#1\hfill #2\par\vspace{0.35em}}
+\begin{document}
+\begin{minipage}[t]{0.56\textwidth}
+  {\fontsize{26}{29}\selectfont\MakeUppercase{Weihua Ma}}
+\end{minipage}
+\begin{minipage}[t]{0.43\textwidth}
+  \raggedleft
+  School of Journalism and Communication\\
+  Nanjing University\\
+  \href{mailto:cora.weihua@gmail.com}{cora.weihua@gmail.com}\\
+  \href{https://github.com/ma-weihua}{github.com/ma-weihua}\\
+  Updated: October 2026
+\end{minipage}
+
+\cvsection{Education}
+\edu{Nanjing University}{Nanjing, China}{M.A. in Communication}{2025--Present}
+\edu{University of Tübingen}{Tübingen, Germany}{Exchange Student in Digital Humanities}{2024--2025}
+\edu{Nanjing University}{Nanjing, China}{B.A. in Journalism}{2021--2025}
+
+\cvsection{Peer-Reviewed Publications}
+\pub{1}{Waiting}
+
+\cvsection{Conference Papers}
+\pub{3}{\textbf{Ma, W.} (2026, November). The ``Wukong'' Effect: Mapping the Global Attention Spillover from Video Games to Source Novels. \textit{National Communication Association 112th Annual Convention}, New Orleans, United States.}
+\pub{2}{Xiao, X., \& \textbf{Ma, W.} (2026, June). Causal Pathways of Influence: International News and Political Elite Attention. \textit{International Communication Association 76th Annual Conference}, Cape Town, South Africa.}
+\pub{1}{Xiao, X., \& \textbf{Ma, W.} (2025, November). Games as a Medium: The Role of \textit{Black Myth: Wukong} in Promoting the Overseas Dissemination of \textit{Journey to the West}. \textit{National Communication Association 111th Annual Convention}, Denver, United States.}
+
+\cvsection{Under Review}
+\pub{2}{\textbf{Weihua Ma}, Xiaoxiao, \& Chengjun Wang. The ``Wukong'' Effect: How Video Games Generate Attention Spillover in Cross-Cultural Communication (Under Review)}
+\pub{1}{Xiaoxiao, Yaotian Zhang, \textbf{Weihua Ma}, \& Chengjun Wang. Reversing the Information Subsidy: International News and the Political Leader's Attention in China (Under Review)}
+
+\cvsection{Selected Works in Progress}
+\pub{2}{Surprise Me, But Not Too Much: Style Deviation and Public Engagement among U.S. State Legislators on X (with Yuehong Cassandra Tai; Manuscript in preparation)}
+\pub{1}{Affective Polarization and Ideological Divides: Policy Preferences, Partisan Sorting, and Political Values (Manuscript in preparation)}
+
+\newpage
+\cvsection{Grants}
+\textbf{External}\par\vspace{0.2em}
+\cvbullet{National Social Science Foundation of China (22BXW032), \textyen 200,000, \textit{Research Fellow}}{2022--2025}
+\hspace*{1.45em}Project title: \textit{Computational Narrative Research on Chinese Stories and Chinese Voices in the Digital Media Era} (PI: Cheng-Jun Wang)
+
+\vspace{0.45em}\textbf{Internal}\par\vspace{0.2em}
+\cvbullet{Jiangsu Province Graduate Research and Practice Innovation Program (26CXJH0090), \textyen 8,000, \textit{PI}}{2026--2027}
+\hspace*{1.45em}Project title: \textit{The ``Wukong'' Effect: How Digital Games Generate Attention Spillover to Classic Chinese Narratives}
+
+\cvsection{Awards \& Honors}
+\cvbullet{Outstanding Student of the 2023--2024 Academic Year, Nanjing University (University Level)}{2025}
+\cvbullet{Gold Award, China International College Students' Innovation Competition 2024 (National Level)}{2024}
+\cvbullet{Second Prize, Regular Track, 27th Nanjing University Basic Sciences Forum (University Level)}{2024}
+
+\cvsection{Skills}
+\cvbullet{\textbf{Statistical Programming Languages:}\quad R, Python, Stata, SPSS, SQL}{}
+\cvbullet{\textbf{Languages:}\quad Mandarin, English}{}
+\end{document}
