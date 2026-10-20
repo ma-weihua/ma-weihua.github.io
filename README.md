@@ -28,11 +28,9 @@ Then open `http://localhost:8000/`.
 3. Replace `assets/cv/Weihua_Ma_CV.pdf` without changing the filename. The preview, download, and open buttons all point to this single file.
 4. Open `/cv/` on desktop and mobile to verify the embedded preview and fallback links.
 
-## GitHub Pages deployment (only after approval)
+## GitHub Pages deployment
 
-The site is designed to be served from the repository root of `ma-weihua.github.io`. No remote repository has been created or modified in this draft phase.
-
-After final approval, create a clean repository with a new first commit, push these files, and enable GitHub Pages from the default branch root. Do not reuse the previous repository's `.git` directory.
+The site is published at <https://ma-weihua.github.io/> from the repository root of the `main` branch. GitHub Pages is configured to deploy from `/ (root)` with HTTPS enforced.
 
 ## Content provenance
 
