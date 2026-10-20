@@ -4,8 +4,8 @@ The current public Awards page presents all five entries in English. It does not
 
 | Original award name on current site | Revised English name | Year | Reason for revision |
 | --- | --- | ---: | --- |
-| Won the **Gold Prize** at the 2024 China International College Students’ Innovation Competition **(National Level)**. | Gold Award, China International College Students’ Innovation Competition 2024 (National Level) | 2024 | Uses the English event name attested by Chinese government and university English-language pages; changes the prose sentence to concise CV style; retains the stated national level. The specific track is not shown and is not inferred. |
-| Awarded **Second Prize** in the 27th Basic Sciences Forum Regular Track, Nanjing University | Second Prize, Regular Track, 27th Nanjing University Basic Sciences Forum | 2024 | Clarifies the host in the event name and standardizes modifier order. Nanjing University’s public notice confirms the 27th forum and “regular track,” but no official English title was located. |
+| Won the **Gold Prize** at the 2024 China International College Students’ Innovation Competition **(National Level)**. | China International College Students’ Innovation Competition 2024 (Gold Award, National Level) | 2024 | Places the award and level together in parentheses for consistent CV presentation. |
+| Awarded **Second Prize** in the 27th Basic Sciences Forum Regular Track, Nanjing University | 27th Nanjing University Basic Sciences Forum (Second Prize, University Level) | 2024 | Places the prize and level together in parentheses and removes the unneeded track label. |
 | Awarded **Outstanding Student of the Year (2023–2024 Academic Year)**, Nanjing University (University-level recognition) | Outstanding Student of the 2023–2024 Academic Year, Nanjing University (University-level Honor) | 2025 | Removes sentence-style wording, fixes spacing and punctuation, and uses a more natural academic-year construction. **Chinese certificate title requires confirmation.** |
 
 ## Chinese-page wording status
